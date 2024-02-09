@@ -8,7 +8,7 @@
     <artifactId>localestrategy</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <spring.version>4.2.0.RC1</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
 
